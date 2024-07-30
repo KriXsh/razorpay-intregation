@@ -62,7 +62,7 @@ By following these instructions, you will have a comprehensive `README.md` file 
 --------------------------------------------------------------------------------
 ## API Endpoints
 Authentication - Register
-# URL: /api/auth/register
+ URL: /api/auth/register
 --- Method: POST
 Body:
 {
@@ -73,7 +73,7 @@ Body:
 }
 
 - Login
-# URL: /api/auth/login
+ URL: /api/auth/login
 --- Method: POST
 Body:
 {
@@ -83,7 +83,7 @@ Body:
 
 # Payments
 Create Order
-# URL: /api/payments/create-order
+ URL: /api/payments/create-order
 -- Method: POST
 Headers: Authorization: Bearer your_jwt_token
 Body:
@@ -92,7 +92,7 @@ Body:
 }
 
 ## Verify Payment
-# URL: /api/payments/verify-payment
+ URL: /api/payments/verify-payment
 -- Method: POST
 Headers: Authorization: Bearer your_jwt_token
 
@@ -105,32 +105,7 @@ Body:
 
 ## User
 Get Amount  
-# URL: /api/user/amount
+ URL: /api/user/amount
 -- Method: GET  Headers: Authorization: Bearer your_jwt_token
 
 
-
-
-# file structure
-
-my-razorpay-app/
-│
-├── server/
-│   ├── controllers/
-│   │   └── paymentController.js
-│   ├── routes/
-│   │   ├── paymentRoutes.js
-│   │   └── authRoutes.js
-│   ├── services/
-│   │   ├── paymentService.js
-│   │   └── authService.js
-│   ├── utils/
-│   │   ├── responseHandler.js
-│   │   └── authMiddleware.js
-│   ├── config/
-│   │   └── razorpayConfig.js
-│   ├── app.js
-│   └── server.js
-├── .env
-├── package.json
-└── README.md
