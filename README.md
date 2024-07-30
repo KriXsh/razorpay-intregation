@@ -65,6 +65,7 @@ Authentication - Register
  URL: /api/auth/register
 --- Method: POST
 Body:
+
 {
   "name": "John Doe",
   "email": "john.doe@example.com",
