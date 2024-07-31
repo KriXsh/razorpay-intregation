@@ -59,6 +59,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 By following these instructions, you will have a comprehensive `README.md` file that provides a clear overview of your project, installation instructions, and usage examples.
 
 
+
+
 --------------------------------------------------------------------------------
 ## API Endpoints
 Authentication - Register
@@ -108,5 +110,10 @@ Body:
 Get Amount  
  URL: /api/user/amount
 -- Method: GET  Headers: Authorization: Bearer your_jwt_token
+
+
+
+
+
 
 
