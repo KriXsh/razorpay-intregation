@@ -1,6 +1,6 @@
 # Razorpay Integration with Node.js and MongoDB       
 
-This project demonstrates how to integrate Razorpay payment gateway with a Node.js server using Express and MongoDB. It includes user registration, login, and payment functionalities, secured with JWT authentication.  
+This project demonstrates how to integrate Razorpay payment gateway with a Node.js server using Express and MongoDB. It includes user registration, login, and payment functionalities, secured with JWT authentication.     
 
 ## Features
 
