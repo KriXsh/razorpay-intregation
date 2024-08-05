@@ -9,7 +9,7 @@ This project demonstrates how to integrate Razorpay payment gateway with a Node.
 - Create Razorpay payment orders
 - Verify Razorpay payments
 - Retrieve user credit amounts
-
+      
 ## Technologies Used
 
 - Node.js
