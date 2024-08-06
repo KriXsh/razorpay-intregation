@@ -15,7 +15,7 @@ This project demonstrates how to integrate Razorpay payment gateway with a Node.
 - Node.js
 - Express.js
 - MongoDB
-- Mongoose
+- Mongoose          
 - Razorpay API
 - JWT for authentication
 - bcrypt for password hashing
