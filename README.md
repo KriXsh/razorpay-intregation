@@ -7,7 +7,7 @@ This project demonstrates how to integrate Razorpay payment gateway with a Node.
 - User registration with password encryption        
 - User login with JWT authentication
 - Create Razorpay payment orders 
-- Verify Razorpay payments
+- Verify Razorpay payments       
 - Retrieve user credit amounts
       
 ## Technologies Used   
