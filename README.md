@@ -11,7 +11,7 @@ This project demonstrates how to integrate Razorpay payment gateway with a Node.
 - Retrieve user credit amounts
       
 ## Technologies Used            
-      
+            
 - Node.js
 - Express.js     
 - MongoDB
